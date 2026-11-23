@@ -1,3 +1,6 @@
+Nama : Maya Ardila Riani
+NPM : 2410020050
+
 # IoT REST API dengan Node-RED
 
 Praktikum **REST API Node-RED untuk IoT**: simulator ESP32 mengirim data sensor lewat MQTT,
